@@ -1,4 +1,4 @@
-package br.com.trainingloiane.javabasico.exercicios.java.estrutura;
+package br.com.trainingloiane.javabasico.exercicios.java.estruturadedados.classes;
 
 public class Programa {
     public static void main(String[] args) {

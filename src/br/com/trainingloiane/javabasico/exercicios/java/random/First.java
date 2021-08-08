@@ -1,4 +1,4 @@
-package br.com.trainingloiane.javabasico.exercicios;
+package br.com.trainingloiane.javabasico.exercicios.java.random;
 
 import java.util.Random;
 
